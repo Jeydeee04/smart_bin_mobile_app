@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346049536934",
+    "firebase_url": "https://smartbin-79e61-default-rtdb.firebaseio.com",
+    "project_id": "smartbin-79e61",
+    "storage_bucket": "smartbin-79e61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346049536934:android:24ba2714b28a1e1d1ca567",
+        "android_client_info": {
+          "package_name": "com.jeydeee04.Thesis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgguZh6IWgVJdaaABti51bsgA8zXZblg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
